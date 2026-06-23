@@ -1,0 +1,269 @@
+{
+  "canales": [
+    {
+      "canal_id": "UCD6TPU-PvTMvqgzC_AM7_uA",
+      "nombre": "The People Profiles",
+      "razon": "empresa de producción + anti-IA implícita"
+    },
+    {
+      "canal_id": "UCcMDLdoKRgBNSNO9QjBbMjQ",
+      "nombre": "Lindsay Holiday",
+      "razon": "anti-IA declarada"
+    },
+    {
+      "canal_id": "UCG-D4hle8RAoNqnFyLAMKSA",
+      "nombre": "Sean Munger",
+      "razon": "señales fuertes anti-IA"
+    },
+    {
+      "canal_id": "UCir3KPAs3tpBPakEFOzJOZQ",
+      "nombre": "Astrum",
+      "razon": "empresa con equipo completo"
+    },
+    {
+      "canal_id": "UCGHBuPjEuCfWmBsAaKF6WKg",
+      "nombre": "NEO",
+      "razon": "empresa con researcher dedicado"
+    },
+    {
+      "canal_id": "UCHIcAjcSZhh5ZNpqEPVHk6A",
+      "nombre": "Professor Dave Explains",
+      "razon": "fit tibio"
+    },
+    {
+      "canal_id": "UCagE-cnhDQBGJFd9tJSmwiA",
+      "nombre": "Fredrik Knudsen",
+      "razon": "tipo de research distinto"
+    },
+    {
+      "canal_id": "UCNXvmGafmrtJ7VPSqjRRbwg",
+      "nombre": "Scary Interesting",
+      "razon": "equipo de writers y researchers propio"
+    },
+    {
+      "canal_id": "UCUsE2vix9xcbgY7sJKLRZlw",
+      "nombre": "Dark Case Documentaries",
+      "razon": "energía incompatible con valores de Nahuel"
+    },
+    {
+      "canal_id": "UCNXvmGafmrtJ7VPSqjRRbwg",
+      "nombre": "Scary Interesting",
+      "razon": "equipo de writers y researchers propio"
+    },
+    {
+      "canal_id": "UCcg171okllPcyT6Sm5iBb7A",
+      "nombre": "Hockey Psychology",
+      "razon": "formato incorrecto, análisis deportivo"
+    },
+    {
+      "canal_id": "UCOUZWV1DRtHtpP2H48S7iiw",
+      "nombre": "Psychology In Seattle",
+      "razon": "formato incorrecto, terapeuta comentando reality shows"
+    },
+    {
+      "canal_id": "UCKzJFdi57J53Vr_BkTfN3uQ",
+      "nombre": "Primer",
+      "razon": "canal abandonado"
+    },
+    {
+      "canal_id": "UCN9v4QG3AQEP3zuRvVs2dAg",
+      "nombre": "History Time",
+      "razon": "Canal con 1.3M suscriptores de contenido histórico documental de alta calidad, pero el tamaño y la escala sugieren un equipo de producción consolidado que probablemente ya cuenta con researchers dedicados."
+    },
+    {
+      "canal_id": "UCV-yCAXMS-nWrHtORuDfSuQ",
+      "nombre": "Odyssey - Ancient History Documentaries",
+      "razon": "Canal institucional de documentales de historia antigua con más de 1M de suscriptores, claramente operado por una empresa de producción con equipo grande, no un creador individual."
+    },
+    {
+      "canal_id": "UCtqAF8FSQIIq-vBLKtgLH_w",
+      "nombre": "Parable - Free History Documentaries",
+      "razon": "Canal de distribución de documentales históricos gratuitos, claramente una empresa/plataforma de contenido con catálogo licenciado, no un creador individual que produce ni investiga."
+    },
+    {
+      "canal_id": "UCfrd3BAfIxnQurW6onoaY1Q",
+      "nombre": "All Out History - Premium History Documentaries ",
+      "razon": "Canal de documentales históricos de producción profesional con branding 'Premium', equipo grande implícito y enfoque institucional/editorial, no un creador individual sin researcher."
+    },
+    {
+      "canal_id": "UC3hQxO2yb4TjIar90ccXjfQ",
+      "nombre": "The Ultimate Discovery",
+      "razon": "Canal de entretenimiento viral basado en predicciones de Los Simpson y contenido sensacionalista, sin investigación documental real ni profundidad temática."
+    },
+    {
+      "canal_id": "UC2NRf0-PH8IiMq5uA5FHJnA",
+      "nombre": "quack doc",
+      "razon": "Canal de contenido iceberg/true crime de entretenimiento sensacionalista, no investigación documental profunda con rigor narrativo."
+    },
+    {
+      "canal_id": "UCOuWeOkMrq84u5LY6apWQ8Q",
+      "nombre": "TREY the Explainer",
+      "razon": "Canal orientado a análisis de manga/anime y cultura pop (JoJo's Bizarre Adventure), no a investigación documental o educativa profunda."
+    },
+    {
+      "canal_id": "UCKVtMu6QLSEA528Li51ndPQ",
+      "nombre": "Nat Geo en Español",
+      "razon": "National Geographic es una institución de producción masiva con equipos completos de investigación, no un creador individual que necesite research externo."
+    },
+    {
+      "canal_id": "UCZwU2G-KVl-P-O-B35chZOQ",
+      "nombre": "History Hit",
+      "razon": "History Hit es una empresa de producción/media con equipo grande y estructura institucional, no un creador individual o equipo pequeño sin researcher dedicado."
+    },
+    {
+      "canal_id": "UCDQ3dBlROEdEXGVAIOVDm7Q",
+      "nombre": "Best History Documentaries",
+      "razon": "Canal recopilador de documentales históricos, no un creador individual que produce contenido propio ni requiere research externo."
+    },
+    {
+      "canal_id": "UCOk2CgtW_euf-9w34fnYQnA",
+      "nombre": "Chronicle - Medieval History Documentaries",
+      "razon": "Canal institucional de producción documental con equipo grande, enfocado en historia medieval, no es un creador individual que necesite research externo."
+    },
+    {
+      "canal_id": "UCrFfcsFcqaK-wsZoDy3gGkw",
+      "nombre": "History with Dave",
+      "razon": "El título del último video incluye explícitamente '(NO AI)', lo que indica una postura anti-IA declarada públicamente."
+    },
+    {
+      "canal_id": "UCFn4wt14ytUbngBJp8SsWKQ",
+      "nombre": "Made In History",
+      "razon": "Canal de historia con formato 24/7 livestream/compilaciones para estudiar y relajarse, orientado al consumo pasivo y no a documentales guionados de investigación profunda."
+    },
+    {
+      "canal_id": "UCyWu1tIrHSMmserB-U5NV_g",
+      "nombre": "Medieval Times Discovered",
+      "razon": "Canal de contenido histórico medieval pero orientado a formatos de lista virales y entretenimiento ligero, no a documentales profundos ni investigación narrativa estructurada."
+    },
+    {
+      "canal_id": "UCchgIh8Tc4sTmBfnMQ5pDdg",
+      "nombre": "Rick Steves' Europe",
+      "razon": "Canal de viajes con producción profesional consolidada y marca personal establecida; no produce contenido documental de investigación profunda sino guías turísticas audiovisuales con equipo de producción grande detrás."
+    },
+    {
+      "canal_id": "UC15QE9U_c5QZd1qKP57_hMA",
+      "nombre": "El Escoces gamer",
+      "razon": "Canal de gaming/entretenimiento con contenido de caramelos y juegos, no es documental ni investigativo."
+    },
+    {
+      "canal_id": "UCX51Dixddr5HuwLVBH9ykeQ",
+      "nombre": "Top5s",
+      "razon": "Canal de entretenimiento de formato Top5/listas sensacionalistas, sin profundidad investigativa ni estructura documental."
+    },
+    {
+      "canal_id": "UCpkcfCp362efwIYjFXQxSqA",
+      "nombre": "The World History Channel",
+      "razon": "El nombre 'The World History Channel' y el estilo de contenido sugieren un canal institucional o de producción con equipo, no un creador individual que necesite research externo."
+    },
+    {
+      "canal_id": "UC3fOzMSxcmCXZLmAM9vy1IQ",
+      "nombre": "War Stories",
+      "razon": "Canal de producción documental sobre historia bélica con más de 1M de suscriptores, casi con certeza operado por un equipo o empresa de producción, no un creador individual sin researcher."
+    },
+    {
+      "canal_id": "UCB1eDEd1AYG3YrRIJSZzMOQ",
+      "nombre": "Real Time History",
+      "razon": "Canal de producción documental histórica con equipo grande y estructura institucional, no un creador individual que necesite researcher externo"
+    },
+    {
+      "canal_id": "UCzV8tU9puZ9xHtCJHUvEClw",
+      "nombre": "Military Heroes",
+      "razon": "Canal de entretenimiento militar con formato de episodios de serie, apariencia de producción institucional o empresa de contenido masivo, no un creador individual con necesidad de research externo."
+    },
+    {
+      "canal_id": "UCvvOHrs5pzdWg_zaFIpO8xQ",
+      "nombre": "SLICE Iberia",
+      "razon": "Es una rama ibérica de SLICE, red de distribución documental de gran escala con equipo de producción institucional, no un creador individual independiente."
+    },
+    {
+      "canal_id": "UCb7xZQi7F3RW7BNtR57cNnA",
+      "nombre": "Banijay History",
+      "razon": "Banijay es una gran empresa de producción europea con equipo profesional completo, no un creador individual que necesite research externo."
+    },
+    {
+      "canal_id": "UCuCuEKq1xuRA0dFQj1qg9-Q",
+      "nombre": "Knowledgia",
+      "razon": "Canal de historia con 2.18M suscriptores y producción masiva de contenido sugiere equipo grande o estructura semi-institucional, no un creador individual que necesite researcher externo."
+    },
+    {
+      "canal_id": "UCiCPv2sV_D3FqMRzzUFA2Fg",
+      "nombre": "Biography",
+      "razon": "Canal institucional de la marca Biography (A&E Networks), empresa de producción grande con equipo profesional dedicado, no un creador individual."
+    },
+    {
+      "canal_id": "UCfhI0sGZoPY8rTLjmd1sfdA",
+      "nombre": "Changer",
+      "razon": "Canal orientado al fútbol y deportes, contenido de entretenimiento disfrazado de documental sin investigación profunda de valor editorial."
+    },
+    {
+      "canal_id": "UCfJYyfonhgqd3Pwbx_df4Zw",
+      "nombre": "Uri Sabat",
+      "razon": "Canal de entrevistas y desarrollo personal con formato de podcast/conversación, no requiere research documental estructurado ni investigación profunda de archivo."
+    },
+    {
+      "canal_id": "UC-EnprmCZ3OXyAoG7vjVNCA",
+      "nombre": "Stanford",
+      "razon": "Es el canal oficial de la Universidad Stanford, una institución con equipo de producción propio, no un creador individual que necesite investigación narrativa externa."
+    },
+    {
+      "canal_id": "UCPHpx55tgrbm8FrYYCflAHw",
+      "nombre": "Dr. Najeeb Lectures",
+      "razon": "Canal de anatomía médica con formato de clases magistrales en cámara, sin estructura narrativa documental ni necesidad de investigación con storytelling; el contenido es exposición técnica directa, no guionado narrativamente."
+    },
+    {
+      "canal_id": "UCjHz5SVHeMT0AViCYZvsGDA",
+      "nombre": "NOVA PBS Official",
+      "razon": "Es el canal oficial de NOVA PBS, una institución de producción televisiva con equipo editorial y de research propio."
+    },
+    {
+      "canal_id": "UCpuqYFKLkcEryEieomiAv3Q",
+      "nombre": "Therapy in a Nutshell",
+      "razon": "Canal de psicología y bienestar con enfoque terapéutico práctico, pero el formato es divulgación directa y consejos clínicos, no contenido documental o narrativo que requiera investigación estructurada profunda."
+    },
+    {
+      "canal_id": "UCpjlh0e319ksmoOD7bQFSiw",
+      "nombre": "Rich Roll",
+      "razon": "Es un podcast de entrevistas/conversaciones, no contenido documental guionado que requiera investigación narrativa estructurada."
+    },
+    {
+      "canal_id": "UCShHFwKyhcDo3g7hr4f1R8A",
+      "nombre": "World Science Festival",
+      "razon": "Es una institución/organización (festival de ciencia con producción profesional y equipo propio), no un creador individual sin equipo de research."
+    },
+    {
+      "canal_id": "UCdsOTr6SmDrxuWE7sJFrkhQ",
+      "nombre": "BBC Earth Science",
+      "razon": "Es un canal institucional de la BBC, una organización de producción con equipo grande, lo que lo excluye directamente como cliente ideal."
+    },
+    {
+      "canal_id": "UCMV3aTOwUtG5vwfH9_rzb2w",
+      "nombre": "Spark",
+      "razon": "Es un canal de distribución/agregador de contenido documental de terceros (tipo compilación/redifusión), no un creador individual que produce su propio contenido original."
+    },
+    {
+      "canal_id": "UCe50ibE3yQqiltqllDOn3jQ",
+      "nombre": "SLICE Science",
+      "razon": "Es un canal de distribución/agregador de documentales científicos de terceros (FULL DOC), no un creador individual que produce su propio contenido original."
+    },
+    {
+      "canal_id": "UCR_kFbcwWy1cKLCkmcMf4lg",
+      "nombre": "ABC Science",
+      "razon": "Es el canal de ciencia de ABC (Australian Broadcasting Corporation), una institución mediática con equipo de producción propio, lo que lo descarta como cliente ideal."
+    },
+    {
+      "canal_id": "UC62NeTy6Ocd5Jmh_963mLFg",
+      "nombre": "MagellanTV",
+      "razon": "Es una plataforma/servicio de streaming documental que distribuye contenido ajeno, no un creador individual con necesidad de research externo."
+    },
+    {
+      "canal_id": "UCFrO-dKhooOuTtix5dia2_g",
+      "nombre": "Banijay Documentaries",
+      "razon": "Es un canal de distribución de contenido documental de Banijay, una empresa de producción multinacional con equipo propio, no un creador individual que necesite investigación externa."
+    },
+    {
+      "canal_id": "UCPEhHkVcGz4xVgO4V2Zp6nA",
+      "nombre": "KSPS PBS Public TV",
+      "razon": "Es una institución de televisión pública (PBS afiliada) con equipo de producción propio, lo que lo descarta como cliente ideal."
+    }
+  ]
+}
